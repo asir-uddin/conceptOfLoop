@@ -20,11 +20,20 @@
 //     age++;
 // }
 
-let ages = 50;
-let sums = 0;
-while(ages  <= 60){
-    console.log(ages);
-    sums = ages + sums;
-    console.log('sums', sums );
-    ages++;
-}
+// let ages = 50;
+// let sums = 0;
+// while(ages  <= 60){
+//     console.log(ages);
+//     sums = ages + sums;
+//     console.log('sums', sums );
+//     ages++;
+// }
+
+ let sum = 0 ;
+// for( let i = 0 ; i <= 20 ; i++){
+//     sum = sum + i;
+//     console.log(i);
+// }
+// console.log('some of number 0 to 20 is' , sum);
+
+
